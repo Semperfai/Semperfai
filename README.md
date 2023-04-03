@@ -31,6 +31,9 @@
 <a href="https://www.linkedin.com/in/sviatoslav-matiukha-065530249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://t.me/svyatoslavmatyuha" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
 >
+<h2>
+  📊 Github Stats
+</h2>
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=semperfai&theme=solarized_dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semperfai&theme=solarized_dark)
