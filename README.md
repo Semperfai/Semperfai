@@ -1,4 +1,4 @@
-<h2 align="center"> 
+<p align="center"> 
   I'm Svyatoslav Matyuha, front-end developer from Ukraine. I mainly work with frontend, experienced in developing SPAs using Vue and Nuxt.   
   My goal is to apply my technical skills in IT craftsmanship and IT implementation, and to utilize my knowledge in web conﬁguration and troubleshooting to fulﬁll the   company’s vision and mission.
 <h2>
