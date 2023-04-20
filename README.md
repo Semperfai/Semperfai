@@ -1,6 +1,7 @@
 <p align="center"> 
   I'm Svyatoslav Matyuha, front-end developer from Ukraine. I mainly work with frontend, experienced in developing SPAs using Vue and Nuxt.   
   My goal is to apply my technical skills in IT craftsmanship and IT implementation, and to utilize my knowledge in web conﬁguration and troubleshooting to fulﬁll the   company’s vision and mission.
+  
 <h2>
   🔧 Technologies & Tools
 </h2>
@@ -35,7 +36,12 @@
   📊 Github Stats
 </h2>
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=semperfai&theme=solarized_dark)
- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semperfai&theme=solarized_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Semperfai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ 
+ <h2>
+   LeetCode
+</h2>
 
- [![codewars](https://www.codewars.com/users/Semperfai/badges/large)](https://www.codewars.com/users/Semperfai)
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=svyatoslavmatyuha)](https://github.com/Semperfai/github-readme)
+
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
