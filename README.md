@@ -37,7 +37,7 @@
   📊 Github Stats
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Semperfai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svyatoslavmatyuha&theme=solarized_dark)
  
  <h2>
    LeetCode
