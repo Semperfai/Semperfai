@@ -37,7 +37,7 @@
   📊 Github Stats
 </h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svyatoslavmatyuha&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semperfai&theme=dark)
  
  <h2>
    LeetCode
