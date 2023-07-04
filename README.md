@@ -1,4 +1,4 @@
-<h1 align="center">👋 <i>Hello! I'm Svyatoslav Matyuha</i></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I+am+Svyatoslav+Matyuha!)](https://git.io/typing-svg)
 <p align="center"> 
   I'm front-end developer from Ukraine. I mainly work with frontend, experienced in developing SPAs using Vue and Nuxt.   
   My goal is to apply my technical skills in IT craftsmanship and IT implementation, and to utilize my knowledge in web conﬁguration and troubleshooting to fulﬁll the   company’s vision and mission.
