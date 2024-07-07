@@ -38,11 +38,5 @@
 </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semperfai&theme=dark)
- 
- <h2>
-   LeetCode
-</h2>
-
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=svyatoslavmatyuha)](https://github.com/Semperfai/github-readme)
 
   [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
